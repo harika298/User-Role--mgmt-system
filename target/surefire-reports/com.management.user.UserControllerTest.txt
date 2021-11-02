@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.management.user.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.471 s - in com.management.user.UserControllerTest

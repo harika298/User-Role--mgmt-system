@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource",
+      "type": "com.management.user.config.DBConfiguration",
+      "sourceType": "com.management.user.config.DBConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "com.management.user.config.DBConfiguration"
+    },
+    {
+      "name": "spring.datasource.password",
+      "type": "java.lang.String",
+      "sourceType": "com.management.user.config.DBConfiguration"
+    },
+    {
+      "name": "spring.datasource.url",
+      "type": "java.lang.String",
+      "sourceType": "com.management.user.config.DBConfiguration"
+    },
+    {
+      "name": "spring.datasource.username",
+      "type": "java.lang.String",
+      "sourceType": "com.management.user.config.DBConfiguration"
+    }
+  ],
+  "hints": []
+}
